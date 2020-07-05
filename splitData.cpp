@@ -48,6 +48,8 @@ int main()
         std::getline(input,line);
         lineCount++;
     }
+
+    // Returns to beginning of file
     input.clear();
     input.seekg(0, std::iostream::beg);
 
