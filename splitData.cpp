@@ -1,9 +1,13 @@
 #include <string>
+#include <vector>
 #include <iostream>
+#include <random>
+#include <algorithm>
 #include <fstream>
 #include <cstdlib>
 
 using std::string;
+using std::vector;
 using std::cout;
 using std::cin;
 using std::cerr;
@@ -20,6 +24,7 @@ void addToFile(ofstream &,string,int &,int,bool &);
 int main()
 {
     string inFile,trainFile,validFile,testFile;
+    vector<string> fileContents;
 
     cout << "Enter the name of the Input file: ";
     cin >> inFile;
@@ -52,12 +57,17 @@ int main()
     {
         std::getline(input,line);
         if(line.length() > 0)
+        {
+            fileContents.push_back(line);
             lineCount++;
+        }
     }
+    input.close();
 
-    // Returns to beginning of file
-    input.clear();
-    input.seekg(0, std::iostream::beg);
+    // Randomize the data
+    std::default_random_engine generator;
+    std::uniform_int_distribution<int> distribution(0,PERCENT-1);
+    std::shuffle(fileContents.begin(),fileContents.end(),generator);
 
     // Number of data for Validation and Test sets
     int testNum = ( lineCount + PERCENT - 1 ) / PERCENT;
@@ -73,15 +83,15 @@ int main()
     int randNum;
     bool added;
 
-    while(input)
+    for(auto iter : fileContents)
     {
-        std::getline(input,line);
+        line = iter;
 
         // Skips blank lines
         if(line.length() == 0)
             continue;
 
-        randNum = rand()%10;
+        randNum = distribution(generator); // Picks a random number from 0-9
         added = false;
 
         switch(randNum)
