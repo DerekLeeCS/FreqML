@@ -1,14 +1,4 @@
 Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Symptom_7,Symptom_8,Symptom_9,Symptom_10,Symptom_11,Symptom_12,Symptom_13,Symptom_14,Symptom_15,Symptom_16
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
@@ -99,16 +89,6 @@ Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance,,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
@@ -199,16 +179,6 @@ Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance,,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
@@ -299,16 +269,6 @@ Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance,,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
@@ -399,16 +359,6 @@ Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance,,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
@@ -499,16 +449,6 @@ Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance,,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
-Bronchial Asthma, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
-Bronchial Asthma, fatigue, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, muscle_pain,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
@@ -599,7 +539,6 @@ Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, excessive_
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance,,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, loss_of_balance, unsteadiness,,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -609,7 +548,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -619,7 +557,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -629,7 +566,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -639,7 +575,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -649,7 +584,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -659,7 +593,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -669,7 +602,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -679,7 +611,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -689,7 +620,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -699,7 +629,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -709,7 +638,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -719,7 +647,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -729,7 +656,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -739,7 +665,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -749,7 +674,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -759,7 +683,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -769,7 +692,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -779,7 +701,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -789,7 +710,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -799,7 +719,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -809,7 +728,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -819,7 +737,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -829,7 +746,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -839,7 +755,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -849,7 +764,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -859,7 +773,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -869,7 +782,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -879,7 +791,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -889,7 +800,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -899,7 +809,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -909,7 +818,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -919,7 +827,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -929,7 +836,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -939,7 +845,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -949,7 +854,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -959,7 +863,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -969,7 +872,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -979,7 +881,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -989,7 +890,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -999,7 +899,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1009,7 +908,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1019,7 +917,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1029,7 +926,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1039,7 +935,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1049,7 +944,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1059,7 +953,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1069,7 +962,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1079,7 +971,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1089,7 +980,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1099,7 +989,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1109,7 +998,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1119,7 +1007,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1129,7 +1016,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1139,7 +1025,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1149,7 +1034,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1159,7 +1043,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1169,7 +1052,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1179,7 +1061,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
@@ -1189,7 +1070,6 @@ Hepatitis E, joint_pain, vomiting, fatigue, high_fever, yellowish_skin, dark_uri
 Tuberculosis, chills, vomiting, fatigue, weight_loss, cough, high_fever, breathlessness, sweating, loss_of_appetite, mild_fever, yellowing_of_eyes, swelled_lymph_nodes, malaise, phlegm, chest_pain, blood_in_sputum
 Hypoglycemia, vomiting, fatigue, anxiety, sweating, headache, nausea, blurred_and_distorted_vision, excessive_hunger, drying_and_tingling_lips, slurred_speech, irritability, palpitations,,,,
 (vertigo) Paroymsal  Positional Vertigo, vomiting, headache, nausea, spinning_movements, loss_of_balance, unsteadiness,,,,,,,,,,
-Bronchial Asthma, fatigue, cough, high_fever, breathlessness, family_history, mucoid_sputum,,,,,,,,,,
 Malaria, chills, vomiting, high_fever, sweating, headache, nausea, diarrhoea, muscle_pain,,,,,,,,
 Dengue, skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache, nausea, loss_of_appetite, pain_behind_the_eyes, back_pain, malaise, muscle_pain, red_spots_over_body,,
 Typhoid, chills, vomiting, fatigue, high_fever, headache, nausea, constipation, abdominal_pain, diarrhoea, toxic_look_(typhos), belly_pain,,,,,
